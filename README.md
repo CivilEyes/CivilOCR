@@ -23,11 +23,11 @@ CNN backed OCR for legal document of public elections
 
 ### Data
   2017 presidential election of South Korea
-  - Formally charged and acquired from [National Election Commission](http://www.nec.go.kr)
+  - Formally charged by and acquired from [National Election Commission](http://www.nec.go.kr)
   - Several raw data pdf files are bigger than github limit (50MB)
   - Thus there are limited number of files uploaded here. (14 areas in capital Seoul)
   - All raw data pdf files will be available under https://data.civiceyes.io
-  - `filename_r.pdf` files are containing rasterized and simplified images rather than layered and complexed original files.
+  - `filename_r.pdf` files are containing rasterized and simplified images rather than layered and complexed original images.
   - Rasterizing is done under Ubuntu system utilizing xdotool macros
 
 ### Image processing example
