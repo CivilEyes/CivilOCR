@@ -2,7 +2,7 @@
 CNN backed OCR for legal document of public elections
 
 ### Why
-  To demonstrate semi-automated validating of public elections.
+  To demonstrate semi-automated validation of public elections.
 
 ### Progress
   - [x] Load pdf files
